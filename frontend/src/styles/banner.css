@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    padding-block: 0.5rem;
+    background-color: #ececec;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,194,85,1) 0%, rgba(228,241,79,1) 44%, rgba(10,187,224,1) 100%);
+
+}
+.nav-brand{
+    display: inline-block;
+    line-height: 2;
+    font-size: 1.25rem;
+    font-weight: 600;
+}

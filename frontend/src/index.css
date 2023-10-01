@@ -1,0 +1,8 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+ 
+}
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,194,85,1) 0%, rgba(197,85,85,1) 0%, rgba(244,144,79,1) 44%, rgba(210,208,67,1) 100%);    
+}
